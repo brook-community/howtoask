@@ -34,8 +34,8 @@ Brook无论是命令行使用还是图形客户端使用都很简单, 所以建�
     3. 选择`server`, 输入`1.2.3.4:9999`(1.2.3.4是我服务端IP), 和密码, 点击Connect后, 页面按钮出现了`Disconnect`
     4. Brook macOS客户端, 从设置页面里我知道在IPv4环境下默认会创建一个socks5://127.0.0.1:1080代理
     5. 我使用[一键测试socks5的TCP和UDP](https://denorun.app/?url=https%3A%2F%2Fgit.io%2Fsocks5.js%20127.0.0.1%3A1080)来测试`127.0.0.1:1080`, 输出了`OK: TCP response is OK`和`OK: UDP response is OK`. 证明我当前网络到服务器的TCP和UDP是畅通的.
-3. 当我...时发生了, 却..., 步骤如下
-    0. ...
+3. 我的Android客户端情况
+    0. 我的Android系统的版本是xxx, 手机是xxx牌子
     1. ...
 
 ### 我就提个问题需要那么啰嗦吗
