@@ -21,7 +21,7 @@ Brook无论是命令行使用还是图形客户端使用都很简单, 所以建�
 
 1. 我的服务端使用以下命令部署
 
-    0. 我的服务器操作系统是Ubuntu 20.04, 64位
+    1. 我的服务器操作系统是Ubuntu 20.04, 64位
     1. `curl -L https://git.io/getnami | bash && sleep 6 && exec -l $SHELL`
     2. `nami install github.com/txthinking/joker`
     3. `nami install github.com/txthinking/brook`
@@ -31,7 +31,7 @@ Brook无论是命令行使用还是图形客户端使用都很简单, 所以建�
     
 2. 我的客户端情况
 
-    0. 我在macOS 10.15.5系统下
+    1. 我在macOS 10.15.5系统下
     1. 安装了Brook macOS图形客户端v20200901版本
     2. 设置里面的内容我均保持了安装后的默认设置
     3. 选择`server`, 输入`1.2.3.4:9999`(1.2.3.4是我服务端IP), 和密码, 点击Connect后, 页面按钮出现了`Disconnect`
@@ -40,7 +40,7 @@ Brook无论是命令行使用还是图形客户端使用都很简单, 所以建�
     
 3. 我的Android客户端情况
 
-    0. 我的Android系统的版本是xxx, 手机是xxx牌子
+    1. 我的Android系统的版本是xxx, 手机是xxx牌子
     1. ...
 
 ### 我就提个问题需要那么啰嗦吗
