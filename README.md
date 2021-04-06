@@ -1,6 +1,6 @@
 🇬🇧
 
-1. Read and finish [document](https://txthinking.github.io/brook/)
+1. Read [document](https://txthinking.github.io/brook/)
 2. Think empathy and provide enough information to make the problem **reproduce**
 3. Politeness and demeanor
 
